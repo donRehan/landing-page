@@ -1,0 +1,29 @@
+* {
+   margin: 0px;
+}
+
+body {
+	display: flex;
+}
+
+ul {
+	list-style: none;
+	padding: 0px;
+}
+
+
+.area-a {
+	display: flex;
+	flex: 0 0 100%;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	flex: 0 0 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
