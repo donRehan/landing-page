@@ -1,4 +1,6 @@
-[_] Align header texts to be justified center
-[_] Constrict the header length so it does look right
-[_] Create break points in this website is awesome part
-[_] Add rounded corners to the button
+[x] Align header texts to be justified center
+[x] Constrict the header length so it does look right
+[x] Create break points in this website is awesome part
+[x] Add rounded corners to the button
+[x] Adjust the font color and size in the button
+[_] Create area B with the four images aligned and text beneath them
