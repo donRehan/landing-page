@@ -83,3 +83,8 @@ h1 {
 	color: #1F2937;
 	font-size: 36px;
 }
+
+.button-area {
+	display: flex;
+	justify-content: space-between;
+}
