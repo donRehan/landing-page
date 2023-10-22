@@ -4,6 +4,7 @@
 
 body {
 	display: flex;
+	flex-direction: column;
 }
 
 ul {
@@ -19,6 +20,7 @@ ul {
 	flex: 0 0 100%;
 	background-color: #1F2937;
 	padding-top: 25px;
+	padding-bottom: 100px;
 }
 
 .header {
@@ -57,4 +59,27 @@ h1 {
 	color: #E5E7EB;
 	padding-left: 120px;
 	padding-right: 120px;
+}
+
+.b-body {
+	padding-top: 50px;
+	display: flex;
+	justify-content: center;
+	gap: 50px;
+	padding-bottom: 100px;
+}
+
+.box {
+	width: 174px;
+	text-align: center;
+}
+
+.quote-div {
+	padding-top: 135px;
+	padding-bottom: 135px;
+	background-color: #E5E7EB; text-align: center;
+	padding-right: 350px;
+	padding-left: 350px;
+	color: #1F2937;
+	font-size: 36px;
 }

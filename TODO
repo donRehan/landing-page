@@ -3,4 +3,15 @@
 [x] Create break points in this website is awesome part
 [x] Add rounded corners to the button
 [x] Adjust the font color and size in the button
-[_] Create area B with the four images aligned and text beneath them
+[x] Create area B with the four images aligned and text beneath them
+	[x] Make it into two divs flex displayed coloumn
+	[x] Write some random information as a header of some type
+		[x] Give it some padding above and beneath
+		[x] Set it to be center aligned
+	[x] Create in the second div 4 boxes
+	[x] Each box item in the css should have its text center aligned
+	[x] Boxes should have flex display column
+	[x] Add gap between them
+	[x] Create some space beneath them
+[x] Midsection
+[_] Create Div for Call to action its time !
